@@ -7,7 +7,7 @@
 The protocol is live on Solana devnet at the address:
 
 ```
-T4E39enXA8obNv8iT8Sx58UoiaEcWCpg1SqBr33d28V
+F4GjdxR17xHhCMb7i93eoe3BjXZ8LdZj8BJw2bnGeHwk
 ```
 
 ## Usage
